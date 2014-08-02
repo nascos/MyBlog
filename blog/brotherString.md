@@ -31,3 +31,4 @@ PS:发现貌似少了个排序string的方法，现在补充上去
         return str.split("").sort().join("");
     }
 ```
+
